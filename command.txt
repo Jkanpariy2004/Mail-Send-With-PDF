@@ -1,0 +1,2 @@
+(1)install dompdf package
+        -->composer require barryvdh/laravel-dompdf
